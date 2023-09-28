@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Circled Path</title>
+    <link>https://korinthian90.github.io/posts/</link>
+    <description>Recent content in Posts on The Circled Path</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Sep 2023 12:55:38 -0400</lastBuildDate><atom:link href="https://korinthian90.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>init Blog</title>
+      <link>https://korinthian90.github.io/posts/initblog/</link>
+      <pubDate>Thu, 28 Sep 2023 12:55:38 -0400</pubDate>
+      
+      <guid>https://korinthian90.github.io/posts/initblog/</guid>
+      <description>&amp;ldquo;It&amp;rsquo;s tempting to linger in this moment, while every possibility still exists. But unless they are collapsed by an observer, they will never be more than possibilities.&amp;rdquo;
+Solanum, The Outer Wilds A blog? In 2023? Look, it&amp;rsquo;s a weird one, I&amp;rsquo;ll give you that. Especially in an age where it&amp;rsquo;s probably much easier, more convenient, or more expected to just run a YouTube channel and warble on into the void.</description>
+    </item>
+    
+  </channel>
+</rss>

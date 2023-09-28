@@ -2,9 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Circled Path</title>
-    <link>https://korinthian90.github.io/tags/</link>
+    <link>https://blog.circledpath.com/tags/</link>
     <description>Recent content in Tags on The Circled Path</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://korinthian90.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <managingEditor>s.musap@circledpath.com (Sasha Musap)</managingEditor>
+    <webMaster>s.musap@circledpath.com (Sasha Musap)</webMaster><atom:link href="https://blog.circledpath.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
